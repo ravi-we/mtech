@@ -1,0 +1,2 @@
+module MonuHelper
+end
